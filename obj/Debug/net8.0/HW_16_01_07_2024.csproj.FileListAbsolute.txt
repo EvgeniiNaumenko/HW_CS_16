@@ -15,3 +15,4 @@ D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_16_01_07_2024\obj\Debug\net8.0\re
 D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_16_01_07_2024\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_16_01_07_2024\obj\Debug\net8.0\HW_16_01_07_2024.csproj.AssemblyReference.cache
 D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_16_01_07_2024\obj\Debug\net8.0\HW_16_01.FB3BAC5A.Up2Date
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\C#\HW_16_01_07_2024\obj\Debug\net8.0\HW_16_01_07_2024.sourcelink.json

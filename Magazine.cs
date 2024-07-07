@@ -23,7 +23,7 @@ using System.Xml.Serialization;
 namespace HW_16_01_07_2024
 {
     [Serializable]
-    internal class Magazine
+    public class Magazine
     {
         public string Name {  get; set; }
         public string PublHouse {  get; set; }
